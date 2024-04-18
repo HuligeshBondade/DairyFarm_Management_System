@@ -7,9 +7,9 @@ DFSMS encompasses various modules to address different facets of dairy shop mana
 Project Modules
 DFSMS is a web-based application which manages the products of dairy shop. It has one module i.e. admin who manages all the functions of the dairy shop.
 
-Admin Features :
+## Admin Features :
 
-Dashboard: In this section, admin can see all detail in brief like Total listed categories, companies, products and also see the sales.
+***Dashboard:*** In this section, admin can see all detail in brief like Total listed categories, companies, products and also see the sales.
 
 Category: In this section, admin can add new categories and edit, delete old categories.
 
